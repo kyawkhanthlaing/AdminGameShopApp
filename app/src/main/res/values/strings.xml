@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GameShopApp</string>
+
+    <string name="login_screen">Login</string>
+    <string name="home_screen">Home</string>
+
+    <string name="dashboard_screen">Dashboard</string>
+    <string name="order_management_screen">Order Management</string>
+    <string name="Logout">Logout</string>
+
+
+</resources>
